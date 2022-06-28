@@ -1,0 +1,17 @@
+# ----- Experiment options -----
+hes_dir             : './HES'
+ihc_dir             : './IHC'
+hes_library         : './library_HES'
+ihc_library         : './library_IHC'
+
+# ----- Training options -----
+nb_epochs           : 25
+steps_per_epoch     : 200
+nb_batch            : 8
+nb_rois             : 64
+
+# ----- Model options -----
+nb_residuals        : 6
+lambda_cyc          : 30.0
+lambda_id           : 5.0
+lambda_roi          : 1.0
