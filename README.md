@@ -1,4 +1,4 @@
-# miccai2022-cyclegan
+# miccai2022-roigan
 
 Code to train region-guided CycleGANs [[1]](#Reference).
 
