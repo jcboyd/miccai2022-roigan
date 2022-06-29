@@ -15,7 +15,7 @@ The Anaconda environment is specified in ```environment.yml```. The environment 
 conda env create -f environment.yml
 ```
 
-Tested with single NVIDIA P100 GPU, running Cuda 10.0.130, and PyTorch 1.9.0 with torchvision 0.10.0.
+Tested with single NVIDIA V100 GPU, running Cuda 10.0.130, and PyTorch 1.9.0 with torchvision 0.10.0.
 
 ## Usage
 
