@@ -1,5 +1,7 @@
 # miccai2022-roigan
 
+[![ROIGAN demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T5SR0eKNvdQBYjjmX-kvGLAkE0SlZH3J?usp=sharing)
+
 Code to train region-guided CycleGANs [[1]](#Reference).
 
 * ```main.py``` contains training code.
