@@ -35,6 +35,8 @@ See [config/README.md](config/README.md) for a description of configuration opti
 
 Experiments performed on [CAMELYON16](https://camelyon16.grand-challenge.org/) and data from the Gustave Roussy Institute.
 
+See [data/README.md](data/README.md) for library building instructions.
+
 ## Reference
 
 [1] *Region-guided CycleGANs for Stain Transfer in Whole Slide Images*, Joseph Boyd, Irène Villar, Marie-Christine Mathieu, Eric Deutsch, Nikos Paragios, Maria Vakalopoulou, and Stergios Christodoulidis, MICCAI 2022 (in press) [[PDF]](https://arxiv.org/abs/2208.12847)
